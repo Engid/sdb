@@ -38,6 +38,7 @@ CMakeCache.txt
 cmake_install.cmake  
 Makefile  
 out/
+build/
 
 # Logs and databases  
 *.log  
